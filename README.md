@@ -24,7 +24,7 @@
 
 - 🌱 Etudiant à l'université **Sorbonne Paris Nord**
 
-- 📫 Me contactez sur mon mail ! **ay.alloune@gmail.com**
+- 📫 Me contactez sur mon mail ! **ab.nejjari@hotmail.com**
 
 <!--Intro end-->
 
@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,discord,docker,express,github,html,idea,java,js,linux,mysql,postgresql,nextjs,nodejs,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ajax,jquery,java,c,linux,mysql,postgresql,react,nodejs,py,bootstrap,discord,docker,github,git,anaconda,idea,vscode&perline=14" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 <h2> Contactez moi ! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href = 'https://www.linkedin.com/in/abdenour-nejjari-57a4ba254/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>            <a href = 'https://github.com/AbdenourN'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/abdenour-nejjari-57a4ba254/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp           <a href = 'https://github.com/AbdenourN'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
 
