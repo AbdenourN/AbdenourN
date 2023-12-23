@@ -21,7 +21,6 @@
 
 
 <!--Intro start-->
-- 🔭 Je réalise des projets en utilisant **NodeJS, PHP, PostgreSQL, Java et plus**
 
 - 🌱 Etudiant à l'université **Sorbonne Paris Nord**
 
@@ -46,7 +45,7 @@
 
 <h2> Contactez moi ! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href = 'https://www.linkedin.com/in/aymen-alloune-885389227/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>            <a href = 'https://www.github.com/AymenShe'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/abdenour-nejjari-57a4ba254/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>            <a href = 'https://github.com/AbdenourN'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
 
